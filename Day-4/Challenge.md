@@ -3,6 +3,6 @@ Write a function `whisper` that takes in a sentence and returns a new sentence i
 
 The function should also remove an exclamation point at the end of the sentence, if there is one. 
 
-Example  
+Example:  
 input: "The KITTENS are SLEEPING!"  
 output: "shh... the kittens are sleeping"
